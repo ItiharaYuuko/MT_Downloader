@@ -5,10 +5,10 @@ Multithreading downloader for free movies, using the m3u8 type.
 At first you have to get the movies url, use the browser debuger
 press F12 to open the control panel, after select the network button
 and the media button reload the page, watching the right window, paste 
-the url into the srcipt, and delete the context after last '\',
+the url into the srcipt, and delete the context after last '\\',
 paste the url into the scripts 'usage_information'dictionary which
 in the __main__ function.
-Second, get the url after last '\' context, this is your target 
+Second, get the url after last '\\' context, this is your target 
 filename, and analysis the structure of the name.It may combinate
 with strings and integers, please split it with your self. If you
 changed the website to download you should reanalysis the url.
