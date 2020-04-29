@@ -1,7 +1,7 @@
 # MT_Downloader
 Multithreading downloader for free movies, using the m3u8 type.
 
-#Help for using
+# Help for using
 At first you have to get the movies url, use the browser debuger
 press F12 to open the control panel, after select the network button
 and the media button reload the page, watching the right window, paste 
@@ -18,6 +18,6 @@ do not loading, the serial number of the file should paste into the
 'usage_information' dictionary to update the 'files_count' field.
 In the end, when you want to change the numbers of thread, you only
 should chinge the variable 'st' which in the __main__ function.
-
-                                                      Enjoy
-                                                      ItiharaYuuko
+                                                      
+  Enjoy
+  @ItiharaYuuko
